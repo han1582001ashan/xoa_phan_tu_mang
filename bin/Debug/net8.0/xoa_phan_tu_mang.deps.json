@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "xoa_phan_tu_mang/1.0.0": {
+        "runtime": {
+          "xoa_phan_tu_mang.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "xoa_phan_tu_mang/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
